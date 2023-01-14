@@ -24091,27 +24091,27 @@
     "id": 1892,
     "date": "2023-01-10T20:17:43",
     "text": "<a href=\"https://www.bilibili.com/video/av607557330\">https://www.bilibili.com/video/av607557330</a>\n！！！",
-    "views": 25,
+    "views": 26,
     "forwards": 0
   },
   {
     "id": 1893,
     "date": "2023-01-10T21:23:15",
     "text": "是不是生而为雨伞的话就看不到晴天了……（？）",
-    "views": 53,
+    "views": 54,
     "forwards": 1
   },
   {
     "id": 1894,
     "date": "2023-01-10T21:35:40",
     "text": "啊啊啊啊啊啊刷微博刷到白月光突然想起来昨晚的梦",
-    "views": 26,
+    "views": 27,
     "forwards": 0
   },
   {
     "id": 1895,
     "date": "2023-01-10T23:36:50",
-    "views": 27,
+    "views": 28,
     "forwards": 0,
     "images": [
       {
@@ -24197,7 +24197,7 @@
     "id": 1902,
     "date": "2023-01-13T00:19:11",
     "text": "我的微信读书推送订阅上架的速度仿佛就是告知书“反正你也读不完啦”（）",
-    "views": 21,
+    "views": 22,
     "forwards": 1,
     "images": [
       {
@@ -24216,7 +24216,7 @@
     "id": 1903,
     "date": "2023-01-13T10:58:51",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 17,
+    "views": 18,
     "forwards": 1,
     "media_group_id": 13388860249291569,
     "files": [
@@ -24252,7 +24252,7 @@
     "id": 1905,
     "date": "2023-01-13T10:59:14",
     "text": "搞成功了！\n<a href=\"https://blog.1mether.me/tg-channel\">https://blog.1mether.me/tg-channel</a>",
-    "views": 18,
+    "views": 19,
     "forwards": 0,
     "reply": {
       "id": 1903,
@@ -24264,7 +24264,7 @@
     "id": 1906,
     "date": "2023-01-13T18:17:36",
     "text": "不行了，看了知识问答之后盐p的笨蛋形象挥之不去（我脑子：你演的吧）",
-    "views": 9,
+    "views": 13,
     "forwards": 0,
     "images": [
       {
