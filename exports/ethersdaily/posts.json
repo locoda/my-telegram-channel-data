@@ -24196,14 +24196,14 @@
     "id": 1901,
     "date": "2023-01-12T23:20:18",
     "text": "其实加入了我司的Chinese Book Club群组有很长一段时间了，但至今还没有一次feel comfortable加入每月读书会的活动……",
-    "views": 26,
+    "views": 27,
     "forwards": 0
   },
   {
     "id": 1902,
     "date": "2023-01-13T00:19:11",
     "text": "我的微信读书推送订阅上架的速度仿佛就是告知书“反正你也读不完啦”（）",
-    "views": 27,
+    "views": 28,
     "forwards": 1,
     "images": [
       {
@@ -24222,7 +24222,7 @@
     "id": 1903,
     "date": "2023-01-13T10:58:51",
     "text": "tg-blog 写完啦，是一个用来显示电报频道数据的网页前端 qwq\n\n一个部署到了我的 blog <a href=\"https://aza.moe/life\">aza.moe</a> 上面，用来同步显示这个频道的内容。另一个部署到了 <a href=\"one-among.us\">one-among.us</a> 上面，用来备份逝者的频道。毕竟不能期待电报会永远保存频道数据，之前回收非活跃频道用户名的时候也没有提前通知...\n\n给几乎所有的消息格式都写了支持，包括矢量动画表情、视频、投票、地图位置共享、图片预览、音乐播放... <del>完全可以用来做一个第三方 Telegram 客户端了</del> （不\n\n源码链接：\n<a href=\"https://github.com/one-among-us/tg-blog\">tg-blog</a> - 网页前端\n<a href=\"https://github.com/one-among-us/TelegramBackup\">TelegramBackup</a> - 电报爬虫\n<a href=\"https://github.com/one-among-us/TwitterBackup\">TwitterBackup</a> - 推特爬虫",
-    "views": 25,
+    "views": 26,
     "forwards": 1,
     "media_group_id": 13388860249291569,
     "files": [
@@ -24270,7 +24270,7 @@
     "id": 1906,
     "date": "2023-01-13T18:17:36",
     "text": "不行了，看了知识问答之后盐p的笨蛋形象挥之不去（我脑子：你演的吧）",
-    "views": 25,
+    "views": 26,
     "forwards": 0,
     "images": [
       {
@@ -24289,7 +24289,7 @@
     "id": 1908,
     "date": "2023-01-14T01:30:27",
     "text": "稍微又搞了下，不是很decent but it works的感觉……（）",
-    "views": 24,
+    "views": 25,
     "forwards": 0,
     "reply": {
       "id": 1905,
@@ -24300,14 +24300,14 @@
     "id": 1909,
     "date": "2023-01-14T07:31:28",
     "text": "我为什么打不开破站米蕾官方的视频呢！！好痛苦！！",
-    "views": 20,
+    "views": 21,
     "forwards": 0
   },
   {
     "id": 1910,
     "date": "2023-01-14T10:07:54",
     "text": "我跟我妈说，你偷偷看我博客，你别告诉我你看了，我知道你会看我写的就不是那些事情了<i class=\"custom-emoji\" emoji-src=\"emoji/4992297168271311458.webp\">🥲🥲</i><i class=\"custom-emoji\" emoji-src=\"emoji/4992297168271311458.webp\">🥲🥲</i>",
-    "views": 18,
+    "views": 19,
     "forwards": 0
   }
 ]
