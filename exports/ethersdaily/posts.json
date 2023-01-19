@@ -24494,7 +24494,7 @@
     "id": 1927,
     "date": "2023-01-18T08:32:53",
     "text": "笑到",
-    "views": 21,
+    "views": 22,
     "forwards": 0,
     "images": [
       {
@@ -24513,7 +24513,7 @@
     "id": 1928,
     "date": "2023-01-18T22:22:50",
     "text": "我每次抽完卡都在想我再抽芬达我是狗，但我每次都会继续做狗，真的太讨厌了消消乐倒闭算了吧（暴言）",
-    "views": 17,
+    "views": 18,
     "forwards": 0,
     "media_group_id": 13392644561010249,
     "images": [
@@ -24536,6 +24536,25 @@
         "url": "media/1929.jpg",
         "size": 88817,
         "thumb": "media/1929.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1930,
+    "date": "2023-01-19T10:48:57",
+    "text": "我和巴恩斯可能有些观点是一致的（胡言乱语）",
+    "views": 5,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 693,
+        "height": 1280,
+        "date": "2023-01-19T10:48:57",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-19_10-48-57.jpg",
+        "url": "media/1930.jpg",
+        "size": 67547,
+        "thumb": "media/1930.jpg_thumb.jpg"
       }
     ]
   }
