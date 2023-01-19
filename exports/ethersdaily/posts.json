@@ -24104,7 +24104,7 @@
     "id": 1893,
     "date": "2023-01-10T21:23:15",
     "text": "是不是生而为雨伞的话就看不到晴天了……（？）",
-    "views": 63,
+    "views": 64,
     "forwards": 2
   },
   {
@@ -24543,7 +24543,7 @@
     "id": 1930,
     "date": "2023-01-19T10:48:57",
     "text": "我和巴恩斯可能有些观点是一致的（胡言乱语）",
-    "views": 11,
+    "views": 13,
     "forwards": 0,
     "images": [
       {
@@ -24555,6 +24555,25 @@
         "url": "media/1930.jpg",
         "size": 67547,
         "thumb": "media/1930.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1931,
+    "date": "2023-01-19T17:43:22",
+    "text": "呜呜呜呜呜呜呜",
+    "views": 3,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 854,
+        "date": "2023-01-19T17:43:21",
+        "media_type": "photo",
+        "original_name": "photo_2023-01-19_17-43-21.jpg",
+        "url": "media/1931.jpg",
+        "size": 81384,
+        "thumb": "media/1931.jpg_thumb.jpg"
       }
     ]
   }
