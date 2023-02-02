@@ -25314,14 +25314,14 @@
     "id": 1989,
     "date": "2023-02-02T10:40:21",
     "text": "其实我一想我已经挺久没吃止痛药了x",
-    "views": 15,
+    "views": 16,
     "forwards": 0
   },
   {
     "id": 1990,
     "date": "2023-02-02T17:53:38",
     "text": "为什么有一颗那么歪捏",
-    "views": 8,
+    "views": 10,
     "forwards": 0,
     "images": [
       {
@@ -25340,18 +25340,37 @@
     "id": 1991,
     "date": "2023-02-02T17:57:02",
     "text": "周二的DEH的新的惊喜。For Forever的时候因为角度对着Connor妈，我完全捕捉到了唱到中间的时候Connor妈的情绪变化（在舞台暗的地方），中间有一声小小的抽泣真的很动人……",
-    "views": 8,
+    "views": 10,
     "forwards": 0
   },
   {
     "id": 1992,
     "date": "2023-02-02T19:15:24",
     "text": "好可爱……",
-    "views": 5,
+    "views": 8,
     "forwards": 0,
     "reply": {
       "id": 1931,
       "text": "呜呜呜呜呜呜呜"
     }
+  },
+  {
+    "id": 1993,
+    "date": "2023-02-02T20:49:35",
+    "text": "感觉时隔大半年终于开始考虑卖股票",
+    "views": 6,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 961,
+        "height": 1280,
+        "date": "2023-02-02T20:49:35",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-02_20-49-35.jpg",
+        "url": "media/1993.jpg",
+        "size": 59037,
+        "thumb": "media/1993.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
