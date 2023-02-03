@@ -25199,7 +25199,7 @@
     "id": 1980,
     "date": "2023-01-31T08:24:47",
     "text": "在转发里看到有人说“我读大学能不能学会写这个”……有没有一种可能，读大学不是万能的",
-    "views": 28,
+    "views": 29,
     "forwards": 0
   },
   {
@@ -25422,28 +25422,28 @@
     "id": 1997,
     "date": "2023-02-03T05:33:44",
     "text": "如果大家最近有看到什么好玩的关于abnormal psychology相关的视频/文章之类的请多多分享给我（）））",
-    "views": 14,
+    "views": 15,
     "forwards": 0
   },
   {
     "id": 1998,
     "date": "2023-02-03T05:55:38",
     "text": "<a href=\"https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/\">https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/</a>\n可爱！",
-    "views": 14,
+    "views": 15,
     "forwards": 0
   },
   {
     "id": 1999,
     "date": "2023-02-03T06:04:44",
     "text": "喜欢看到的文献的第一句话：\n> In Western medicine, we are very good at treating the disease, less good at treating the patient, and not very good at treating the person.",
-    "views": 14,
+    "views": 15,
     "forwards": 0
   },
   {
     "id": 2000,
     "date": "2023-02-03T09:16:44",
     "text": "Facebook什么破公司啊！！！！！！！！！！！！！！！！",
-    "views": 14,
+    "views": 16,
     "forwards": 0,
     "images": [
       {
@@ -25455,6 +25455,25 @@
         "url": "media/2000.jpg",
         "size": 266731,
         "thumb": "media/2000.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "date": "2023-02-03T20:23:03",
+    "text": "<a href=\"##留学生日常\">#留学生日常</a> ？",
+    "views": 16,
+    "forwards": 1,
+    "images": [
+      {
+        "width": 591,
+        "height": 1280,
+        "date": "2023-02-03T20:23:02",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-03_20-23-02.jpg",
+        "url": "media/2001.jpg",
+        "size": 96876,
+        "thumb": "media/2001.jpg_thumb.jpg"
       }
     ]
   }
