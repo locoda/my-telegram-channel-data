@@ -72,7 +72,7 @@
     "id": 11,
     "date": "2021-01-30T18:45:58",
     "text": "<a href=\"##游戏\">#游戏</a> <a href=\"##蜗牛\">#蜗牛</a> 脸书到手（",
-    "views": 96,
+    "views": 97,
     "forwards": 0,
     "images": [
       {
@@ -25422,28 +25422,28 @@
     "id": 1997,
     "date": "2023-02-03T05:33:44",
     "text": "如果大家最近有看到什么好玩的关于abnormal psychology相关的视频/文章之类的请多多分享给我（）））",
-    "views": 19,
+    "views": 20,
     "forwards": 0
   },
   {
     "id": 1998,
     "date": "2023-02-03T05:55:38",
     "text": "<a href=\"https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/\">https://jvns.ca/blog/2022/12/08/a-debugging-manifesto/</a>\n可爱！",
-    "views": 19,
+    "views": 20,
     "forwards": 0
   },
   {
     "id": 1999,
     "date": "2023-02-03T06:04:44",
     "text": "喜欢看到的文献的第一句话：\n> In Western medicine, we are very good at treating the disease, less good at treating the patient, and not very good at treating the person.",
-    "views": 19,
+    "views": 20,
     "forwards": 0
   },
   {
     "id": 2000,
     "date": "2023-02-03T09:16:44",
     "text": "Facebook什么破公司啊！！！！！！！！！！！！！！！！",
-    "views": 20,
+    "views": 21,
     "forwards": 0,
     "images": [
       {
@@ -25462,7 +25462,7 @@
     "id": 2001,
     "date": "2023-02-03T20:23:03",
     "text": "<a href=\"##留学生日常\">#留学生日常</a> ？",
-    "views": 55,
+    "views": 60,
     "forwards": 1,
     "images": [
       {
@@ -25476,5 +25476,12 @@
         "thumb": "media/2001.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2002,
+    "date": "2023-02-04T05:34:15",
+    "text": "吃完就困……生物本能占领高地了",
+    "views": 7,
+    "forwards": 0
   }
 ]
