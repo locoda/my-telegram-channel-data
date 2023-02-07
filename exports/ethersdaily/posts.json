@@ -3867,7 +3867,7 @@
     "id": 255,
     "date": "2021-06-30T03:59:41",
     "text": "啊，龙樱2还是一样的味道一样的热血沸腾，查榜真的太感动（）\n第一部好像是高三看的，好像当时把我从“申请美国大学也能全聚德我真的大概不行吧”的难过中拉了出来，距离现在竟然也已经过去七年了(´；ω；｀)",
-    "views": 40,
+    "views": 41,
     "forwards": 0
   },
   {
@@ -25653,20 +25653,20 @@
     "id": 2014,
     "date": "2023-02-06T08:01:52",
     "text": "为什么看鹅屋演唱会会哭呢呜呜呜呜呜……",
-    "views": 17,
+    "views": 18,
     "forwards": 0
   },
   {
     "id": 2015,
     "date": "2023-02-06T19:23:01",
     "text": "分享给有需要的朋友们\n<a href=\"https://www.masterso.com/fungshai/fungshai3.php\">https://www.masterso.com/fungshai/fungshai3.php</a>",
-    "views": 8,
+    "views": 9,
     "forwards": 0
   },
   {
     "id": 2016,
     "date": "2023-02-06T22:08:22",
-    "views": 2,
+    "views": 9,
     "forwards": 0,
     "files": [
       {
@@ -25684,6 +25684,25 @@
         "url": "media/2016.webm",
         "size": 52501,
         "thumb": "media/2016.webm_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2017,
+    "date": "2023-02-06T22:41:33",
+    "text": "太好笑了买完Taylor Tomlinson的票巡了下微博广场，没想到还有这等同道中人（）",
+    "views": 8,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 627,
+        "height": 207,
+        "date": "2023-02-06T22:41:32",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-06_22-41-32.jpg",
+        "url": "media/2017.jpg",
+        "size": 27814,
+        "thumb": "media/2017.jpg_thumb.jpg"
       }
     ]
   }
