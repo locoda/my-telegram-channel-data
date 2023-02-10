@@ -25795,14 +25795,14 @@
     "id": 2025,
     "date": "2023-02-08T23:17:23",
     "text": "感觉大半年没打开switch塞尔达2又要上了\n定价70我这个任亏不是你妈的血赚吗（）\n（前一半用的日区xb3 x）",
-    "views": 19,
+    "views": 20,
     "forwards": 0
   },
   {
     "id": 2026,
     "date": "2023-02-09T00:15:24",
     "text": "当然是任亏🤤",
-    "views": 20,
+    "views": 21,
     "forwards": 0,
     "reply": {
       "id": 2025,
@@ -25825,14 +25825,14 @@
     "id": 2027,
     "date": "2023-02-09T01:15:26",
     "text": "<a href=\"https://dccxi.com/trust/\">https://dccxi.com/trust/</a>",
-    "views": 20,
+    "views": 21,
     "forwards": 0
   },
   {
     "id": 2028,
     "date": "2023-02-10T03:30:52",
     "text": "你妈的还是要靠bw",
-    "views": 12,
+    "views": 15,
     "forwards": 0,
     "images": [
       {
@@ -25844,6 +25844,36 @@
         "url": "media/2028.jpg",
         "size": 88966,
         "thumb": "media/2028.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2029,
+    "date": "2023-02-10T19:43:35",
+    "text": "起跳！",
+    "views": 7,
+    "forwards": 0,
+    "media_group_id": 13408465723509129,
+    "images": [
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2023-02-10T19:43:34",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-10_19-43-34.jpg",
+        "url": "media/2029.jpg",
+        "size": 174806,
+        "thumb": "media/2029.jpg_thumb.jpg"
+      },
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2023-02-10T19:43:35",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-10_19-43-35.jpg",
+        "url": "media/2030.jpg",
+        "size": 164501,
+        "thumb": "media/2030.jpg_thumb.jpg"
       }
     ]
   }
