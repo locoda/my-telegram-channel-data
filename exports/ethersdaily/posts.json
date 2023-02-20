@@ -26455,7 +26455,26 @@
     "id": 2075,
     "date": "2023-02-20T05:10:37",
     "text": "认识越多的人就越觉得很难把每个人放进框框里分类，虽然理智上知道如果不分的话没有办法解决问题，但是感性上确实觉得很难很难",
-    "views": 14,
+    "views": 16,
     "forwards": 0
+  },
+  {
+    "id": 2076,
+    "date": "2023-02-20T20:12:49",
+    "text": "感觉要降东西了",
+    "views": 8,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 960,
+        "date": "2023-02-20T20:12:49",
+        "media_type": "photo",
+        "original_name": "photo_2023-02-20_20-12-49.jpg",
+        "url": "media/2076.jpg",
+        "size": 107704,
+        "thumb": "media/2076.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
