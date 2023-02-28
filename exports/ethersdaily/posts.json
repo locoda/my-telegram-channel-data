@@ -9907,7 +9907,7 @@
     "id": 754,
     "date": "2022-03-24T16:37:20",
     "text": "我好憨 但我好开心哈哈哈哈哈哈哈哈哈哈",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -9952,7 +9952,7 @@
     "id": 757,
     "date": "2022-03-26T05:06:09",
     "text": "我好晕 下不了船",
-    "views": 50,
+    "views": 51,
     "forwards": 0,
     "images": [
       {
@@ -26874,14 +26874,14 @@
     "id": 2111,
     "date": "2023-02-27T18:01:45",
     "text": "恐怖故事（？）一则\n电梯显示停靠楼层2 4 6 8\n我从6楼下来的时候电梯里已经没有人了",
-    "views": 9,
+    "views": 14,
     "forwards": 0
   },
   {
     "id": 2112,
     "date": "2023-02-27T18:13:29",
     "text": "me everyday",
-    "views": 9,
+    "views": 14,
     "forwards": 0,
     "images": [
       {
@@ -26900,7 +26900,7 @@
     "id": 2113,
     "date": "2023-02-27T19:38:08",
     "text": "什么家庭啊（",
-    "views": 9,
+    "views": 14,
     "forwards": 0,
     "images": [
       {
@@ -26914,5 +26914,23 @@
         "thumb": "media/2113.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2114,
+    "date": "2023-02-27T23:18:27",
+    "text": "我感觉我现在和deh里的状况是差不多的\n我每天从床上爬起来的时候都在想\ntoday is gonna be a good day because at least I got up",
+    "views": 10,
+    "forwards": 0
+  },
+  {
+    "id": 2115,
+    "date": "2023-02-27T23:19:36",
+    "text": "人确实可以同时睡不着和起不来（）",
+    "views": 10,
+    "forwards": 0,
+    "reply": {
+      "id": 2114,
+      "text": "我感觉我现在和deh里的状况是差不多的\n我每天从床上爬起来的时候都在想\ntoday is gonna be a good day because at least I got up"
+    }
   }
 ]
