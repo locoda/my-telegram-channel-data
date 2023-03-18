@@ -18182,7 +18182,7 @@
     "id": 1406,
     "date": "2022-10-06T18:56:42",
     "text": "我感觉写整个药房的时候我都在企图保持每个人在公共区域中看似正常和私下里各种溃烂的平衡，反正大家都烂，看起来正常就行了（胡言乱语）\n\n<a href=\"https://m.weibo.cn/5533018793/4821664125421380\">source weibo</a>",
-    "views": 225,
+    "views": 226,
     "forwards": 9,
     "images": [
       {
@@ -27697,7 +27697,26 @@
     "id": 2189,
     "date": "2023-03-18T05:54:55",
     "text": "那么问题来了，telegram有没有微博表情包的emoji pack",
-    "views": 16,
+    "views": 17,
     "forwards": 0
+  },
+  {
+    "id": 2190,
+    "date": "2023-03-18T18:22:33",
+    "text": "笑死我了，oura算出来的这schedule=我不太适合过人间生活，是这个意思吗",
+    "views": 3,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 591,
+        "height": 1280,
+        "date": "2023-03-18T18:22:32",
+        "media_type": "photo",
+        "original_name": "photo_2023-03-18_18-22-32.jpg",
+        "url": "media/2190.jpg",
+        "size": 46085,
+        "thumb": "media/2190.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
