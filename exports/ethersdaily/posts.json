@@ -12314,7 +12314,7 @@
     "id": 949,
     "date": "2022-06-04T14:20:55",
     "text": "不就是五万日元",
-    "views": 38,
+    "views": 39,
     "forwards": 1,
     "files": [
       {
@@ -28774,7 +28774,7 @@
     "id": 2278,
     "date": "2023-04-12T03:41:43",
     "text": "hopefully",
-    "views": 12,
+    "views": 14,
     "forwards": 0,
     "images": [
       {
@@ -28788,5 +28788,12 @@
         "thumb": "media/2278.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2279,
+    "date": "2023-04-13T00:05:30",
+    "text": "<a href=\"https://youtu.be/AIMjbleH394\">https://youtu.be/AIMjbleH394</a>\nyoutube 好像突然知道我想听",
+    "views": 7,
+    "forwards": 0
   }
 ]
