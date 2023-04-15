@@ -28883,7 +28883,7 @@
     "id": 2289,
     "date": "2023-04-15T00:22:28",
     "text": "分析局势",
-    "views": 15,
+    "views": 17,
     "forwards": 0,
     "images": [
       {
@@ -28895,6 +28895,36 @@
         "url": "media/2289.jpg",
         "size": 57213,
         "thumb": "media/2289.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2290,
+    "date": "2023-04-15T19:16:35",
+    "text": "今天我是被全世界嫉妒的人",
+    "views": 8,
+    "forwards": 0,
+    "media_group_id": 13452689565241265,
+    "images": [
+      {
+        "width": 738,
+        "height": 1280,
+        "date": "2023-04-15T19:14:35",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-15_19-14-35.jpg",
+        "url": "media/2290.jpg",
+        "size": 117368,
+        "thumb": "media/2290.jpg_thumb.jpg"
+      },
+      {
+        "width": 794,
+        "height": 800,
+        "date": "2023-04-15T19:16:35",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-15_19-16-35.jpg",
+        "url": "media/2291.jpg",
+        "size": 133691,
+        "thumb": "media/2291.jpg_thumb.jpg"
       }
     ]
   }
