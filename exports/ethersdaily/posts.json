@@ -1046,7 +1046,7 @@
     "id": 71,
     "date": "2021-02-22T18:55:03",
     "text": "so true <a href=\"https://www.facebook.com/nathanwpyle2/photos/a.1377156059035720/3696951060389530/\">https://www.facebook.com/nathanwpyle2/photos/a.1377156059035720/3696951060389530/</a>",
-    "views": 52,
+    "views": 53,
     "forwards": 0,
     "images": [
       {
@@ -29275,7 +29275,7 @@
     "id": 2325,
     "date": "2023-04-25T18:28:08",
     "text": "明天！就在明天！",
-    "views": 6,
+    "views": 7,
     "forwards": 0,
     "images": [
       {
@@ -29289,5 +29289,12 @@
         "thumb": "media/2325.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2326,
+    "date": "2023-04-25T20:43:49",
+    "text": "感觉最近很沉迷喊比自己小的人姐姐",
+    "views": 4,
+    "forwards": 0
   }
 ]
