@@ -1027,7 +1027,7 @@
     "id": 69,
     "date": "2021-02-21T23:57:52",
     "text": "<a href=\"##日常\">#日常</a> 带手机摄影家",
-    "views": 51,
+    "views": 52,
     "forwards": 0,
     "images": [
       {
@@ -29486,14 +29486,40 @@
     "id": 2344,
     "date": "2023-04-28T01:35:37",
     "text": "同事问我年薪23w不开心和年薪13w开心选哪个，我说你能让我开心年薪7w足够了（）",
-    "views": 18,
+    "views": 19,
     "forwards": 0
   },
   {
     "id": 2345,
     "date": "2023-04-28T08:06:30",
     "text": "很喜欢那种给我产品在日常生活的时间流逝中支起一个非常小的空间撑出一块独处时光的感觉……（当然知道这不可能但是）",
-    "views": 9,
+    "views": 15,
     "forwards": 0
+  },
+  {
+    "id": 2346,
+    "date": "2023-04-28T17:15:43",
+    "text": "刷到有人发这篇，很喜欢这个标题捏（\n<a href=\"https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are\">https://www.newyorker.com/magazine/2017/06/05/toni-morrison-the-work-you-do-the-person-you-are</a>",
+    "views": 7,
+    "forwards": 0
+  },
+  {
+    "id": 2347,
+    "date": "2023-04-28T17:22:48",
+    "text": "确定不是骂人吗",
+    "views": 6,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 591,
+        "height": 1280,
+        "date": "2023-04-28T17:22:48",
+        "media_type": "photo",
+        "original_name": "photo_2023-04-28_17-22-48.jpg",
+        "url": "media/2347.jpg",
+        "size": 39060,
+        "thumb": "media/2347.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
