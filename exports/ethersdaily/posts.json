@@ -29782,13 +29782,17 @@
         "duration": 44,
         "file_name": "IMG_2963.MOV",
         "mime_type": "video/mp4",
+        "file_size": 47353336,
         "supports_streaming": true,
         "date": "2023-05-04T06:53:00",
-        "media_type": "video_file",
-        "original_name": "IMG_2963.MOV",
-        "url": "media/2369.MOV",
-        "size": 47353336,
-        "thumb": "media/2369.MOV_thumb.jpg"
+        "thumbs": [
+          {
+            "width": 320,
+            "height": 180,
+            "file_size": 6305
+          }
+        ],
+        "media_type": "video_file"
       }
     ]
   },
