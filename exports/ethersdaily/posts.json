@@ -30621,14 +30621,32 @@
     "id": 2444,
     "date": "2023-06-04T14:15:46",
     "text": "看石黑一雄看到很有道理的句子第一反应已经不是划下来而是猜测是不是悲剧的源泉（）",
-    "views": 14,
+    "views": 15,
     "forwards": 0
   },
   {
     "id": 2445,
     "date": "2023-06-04T19:39:48",
     "text": "有时候很讨厌标点符号，感觉是像种非要穿衣服的束缚感\n但大部分时候不……",
-    "views": 3,
+    "views": 6,
     "forwards": 0
+  },
+  {
+    "id": 2446,
+    "date": "2023-06-04T20:49:38",
+    "views": 6,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 591,
+        "height": 1280,
+        "date": "2023-06-04T20:49:38",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-04_20-49-38.jpg",
+        "url": "media/2446.jpg",
+        "size": 90925,
+        "thumb": "media/2446.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
