@@ -1084,7 +1084,7 @@
     "id": 74,
     "date": "2021-02-24T06:28:52",
     "text": "尝试重启了一下博客，用Klib生成了微信读书的书摘，总之是《我要快乐，不必正常》的 <a href=\"##书摘\">#书摘</a>\n<a href=\"https://blog.1mether.me/2021/02/book-why-happy/\">https://blog.1mether.me/2021/02/book-why-happy/</a>",
-    "views": 47,
+    "views": 48,
     "forwards": 0
   },
   {
@@ -30961,5 +30961,24 @@
     "text": "我其实对轻型纸没什么怨言，当然可能是因为整体而言中文书大多本来就没那么厚的关系，所以大家会觉得没必要上轻型。但看多轻型纸会觉得轻型纸的书真的拿起来轻松很多，读着也翻起来不累不手酸，泛黄这种问题我又不是收藏家。。书买来我是为了看的啊（大声）",
     "views": 18,
     "forwards": 0
+  },
+  {
+    "id": 2481,
+    "date": "2023-06-21T19:38:08",
+    "text": "完全是我",
+    "views": 5,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 600,
+        "height": 400,
+        "date": "2023-06-21T19:38:08",
+        "media_type": "photo",
+        "original_name": "photo_2023-06-21_19-38-08.jpg",
+        "url": "media/2481.jpg",
+        "size": 20720,
+        "thumb": "media/2481.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
