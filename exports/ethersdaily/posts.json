@@ -31193,14 +31193,25 @@
     "id": 2501,
     "date": "2023-07-03T19:30:19",
     "text": "今天在办公室的我：I am only physically here. I am now a ghost of Broadway.",
-    "views": 23,
+    "views": 24,
     "forwards": 0
   },
   {
     "id": 2502,
     "date": "2023-07-05T06:00:07",
     "text": "当年玩的贴吧现在是一款赛博坟地（）",
-    "views": 19,
+    "views": 20,
     "forwards": 0
+  },
+  {
+    "id": 2503,
+    "date": "2023-07-06T01:30:00",
+    "text": "😵‍💫😵‍💫说起这个是因为，我们在庆祝贴吧的组织认识14周年了！！我才28岁！！！！",
+    "views": 11,
+    "forwards": 0,
+    "reply": {
+      "id": 2502,
+      "text": "当年玩的贴吧现在是一款赛博坟地（）"
+    }
   }
 ]
