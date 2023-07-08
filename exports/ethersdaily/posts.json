@@ -31237,7 +31237,30 @@
     "id": 2505,
     "date": "2023-07-07T21:41:01",
     "text": "我悟了，如果我凌晨打麻将，那么国内刚好是下午，是我脑子不清醒但他们脑子清醒的时候，我反省，我以后好好做人，挑好一点的时间打麻将",
-    "views": 20,
+    "views": 23,
     "forwards": 0
+  },
+  {
+    "id": 2506,
+    "date": "2023-07-08T08:31:50",
+    "text": "落下的时候",
+    "views": 7,
+    "forwards": 0,
+    "files": [
+      {
+        "width": 720,
+        "height": 1280,
+        "duration": 7,
+        "file_name": "IMG_0717.MOV",
+        "mime_type": "video/mp4",
+        "supports_streaming": true,
+        "date": "2023-07-08T08:31:50",
+        "media_type": "video_file",
+        "original_name": "IMG_0717.MOV",
+        "url": "media/2506.MOV",
+        "size": 2738052,
+        "thumb": "media/2506.MOV_thumb.jpg"
+      }
+    ]
   }
 ]
