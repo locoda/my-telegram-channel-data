@@ -31563,7 +31563,7 @@
     "id": 2522,
     "date": "2023-07-19T06:32:57",
     "text": "笑死了，我的脑子：没错，这是sexual script",
-    "views": 22,
+    "views": 23,
     "forwards": 0,
     "images": [
       {
@@ -31582,14 +31582,14 @@
     "id": 2523,
     "date": "2023-07-19T21:29:59",
     "text": "今年绿苹果的hit曲好多啊……而且绿苹果真的就是很阳间主流jpop内味儿，很好很好很好（）",
-    "views": 19,
+    "views": 20,
     "forwards": 0
   },
   {
     "id": 2524,
     "date": "2023-07-20T05:27:01",
     "text": "分享一些傻子快乐玩具",
-    "views": 17,
+    "views": 20,
     "forwards": 0,
     "files": [
       {
@@ -31605,6 +31605,25 @@
         "url": "media/2524.MOV",
         "size": 2465730,
         "thumb": "media/2524.MOV_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2525,
+    "date": "2023-07-20T21:23:27",
+    "text": "啊呀终于拿到了",
+    "views": 9,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 960,
+        "height": 1280,
+        "date": "2023-07-20T21:23:27",
+        "media_type": "photo",
+        "original_name": "photo_2023-07-20_21-23-27.jpg",
+        "url": "media/2525.jpg",
+        "size": 82226,
+        "thumb": "media/2525.jpg_thumb.jpg"
       }
     ]
   }
