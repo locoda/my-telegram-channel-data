@@ -1326,7 +1326,7 @@
     "id": 93,
     "date": "2021-02-28T10:44:04",
     "text": "<a href=\"##抄台词\">#抄台词</a> 我要赦免我自己了。",
-    "views": 49,
+    "views": 50,
     "forwards": 0
   },
   {
@@ -31746,7 +31746,7 @@
     "id": 2535,
     "date": "2023-07-24T15:26:29",
     "text": "说真的我感觉整个电影没有一个字是说给男的听的，别自我意识太过剩了（）",
-    "views": 21,
+    "views": 22,
     "forwards": 0,
     "reply": {
       "id": 2533,
@@ -31757,14 +31757,14 @@
     "id": 2536,
     "date": "2023-07-24T19:00:08",
     "text": "急，TFSD周四就要early access了怎么现在还没排片啊！！！",
-    "views": 19,
+    "views": 20,
     "forwards": 0
   },
   {
     "id": 2537,
     "date": "2023-07-24T22:34:20",
     "text": "好漂亮啊我大叫老婆呜呜呜",
-    "views": 16,
+    "views": 17,
     "forwards": 0,
     "images": [
       {
@@ -31776,6 +31776,25 @@
         "url": "media/2537.jpg",
         "size": 208739,
         "thumb": "media/2537.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2538,
+    "date": "2023-07-25T05:02:15",
+    "text": "这电影和台词交相辉映啊",
+    "views": 9,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1280,
+        "height": 720,
+        "date": "2023-07-25T05:01:42",
+        "media_type": "photo",
+        "original_name": "photo_2023-07-25_05-01-42.jpg",
+        "url": "media/2538.jpg",
+        "size": 63206,
+        "thumb": "media/2538.jpg_thumb.jpg"
       }
     ]
   }
