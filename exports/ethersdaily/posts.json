@@ -436,7 +436,7 @@
     "id": 33,
     "date": "2021-02-07T08:34:55",
     "text": "<a href=\"##拼图\">#拼图</a> 感觉明天能拼完了！预计最多还需要两小时！",
-    "views": 56,
+    "views": 57,
     "forwards": 0,
     "images": [
       {
@@ -34643,5 +34643,12 @@
         "thumb": "media/2788.jpg_thumb.jpg"
       }
     ]
+  },
+  {
+    "id": 2789,
+    "date": "2023-12-01T18:08:38",
+    "text": "发现芙莉莲的中文wiki把每个人的名字德语都查了，谢谢你德语侠（x\n<a href=\"https://zh.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE\">https://zh.wikipedia.org/wiki/%E8%91%AC%E9%80%81%E7%9A%84%E8%8A%99%E8%8E%89%E8%93%AE</a>",
+    "views": 3,
+    "forwards": 0
   }
 ]
