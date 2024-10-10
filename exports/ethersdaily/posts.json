@@ -36955,14 +36955,33 @@
     "id": 2992,
     "date": "2024-10-06T13:08:51",
     "text": "真的，闲鱼上这些连问题都不会问的人到底是怎么搜到我的商品的，感到难以置信，什么关键词啊",
-    "views": 28,
+    "views": 29,
     "forwards": 0
   },
   {
     "id": 2993,
     "date": "2024-10-08T22:50:42",
     "text": "downdetector 提供了一种心理慰藉（",
-    "views": 20,
+    "views": 21,
     "forwards": 0
+  },
+  {
+    "id": 2994,
+    "date": "2024-10-10T16:16:08",
+    "text": "ww",
+    "views": 3,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 1080,
+        "height": 1080,
+        "date": "2024-10-10T16:16:07",
+        "media_type": "photo",
+        "original_name": "photo_2024-10-10_16-16-07.jpg",
+        "url": "media/2994.jpg",
+        "size": 98193,
+        "thumb": "media/2994.jpg_thumb.jpg"
+      }
+    ]
   }
 ]
