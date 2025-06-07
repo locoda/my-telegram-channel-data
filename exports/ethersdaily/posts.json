@@ -37450,7 +37450,7 @@
     "id": 3031,
     "date": "2025-04-29T04:19:21",
     "text": "有没有一种可能 在搜索la美食的时候0人会想看推荐姜虎东（）",
-    "views": 65,
+    "views": 66,
     "forwards": 0,
     "images": [
       {
@@ -37469,7 +37469,7 @@
     "id": 3032,
     "date": "2025-05-03T21:01:56",
     "text": "lets拭目以待",
-    "views": 62,
+    "views": 65,
     "forwards": 0,
     "images": [
       {
@@ -37487,7 +37487,7 @@
   {
     "id": 3033,
     "date": "2025-06-04T02:09:14",
-    "views": 19,
+    "views": 24,
     "forwards": 0,
     "reply": {
       "id": 3032,
@@ -37503,6 +37503,25 @@
         "url": "media/3033.jpg",
         "size": 277292,
         "thumb": "media/3033.jpg_thumb.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3034,
+    "date": "2025-06-07T06:30:32",
+    "text": "好友欢迎！！（虽然这里的大部分都加过了x\n\n以及还没扫码的朋友⬇️\nSW-7212-5166-5140",
+    "views": 6,
+    "forwards": 0,
+    "images": [
+      {
+        "width": 800,
+        "height": 800,
+        "date": "2025-06-07T06:30:32",
+        "media_type": "photo",
+        "original_name": "photo_2025-06-07_06-30-32.jpg",
+        "url": "media/3034.jpg",
+        "size": 69166,
+        "thumb": "media/3034.jpg_thumb.jpg"
       }
     ]
   }
