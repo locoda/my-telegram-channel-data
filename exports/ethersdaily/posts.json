@@ -37491,7 +37491,8 @@
     "forwards": 0,
     "reply": {
       "id": 3032,
-      "text": "lets拭目以待"
+      "text": "lets拭目以待",
+      "thumb": "media/3032.jpg_thumb.jpg"
     },
     "images": [
       {
@@ -37520,7 +37521,7 @@
         "media_type": "photo",
         "original_name": "photo_2025-06-07_06-30-32.jpg",
         "url": "media/3034.jpg",
-        "size": 69166,
+        "size": 49225,
         "thumb": "media/3034.jpg_thumb.jpg"
       }
     ]
@@ -37554,7 +37555,8 @@
       {
         "width": 1280,
         "height": 720,
-        "duration": 11,
+        "codec": "h264",
+        "duration": 10.9,
         "file_name": "IMG_4724.MP4",
         "mime_type": "video/mp4",
         "supports_streaming": true,
